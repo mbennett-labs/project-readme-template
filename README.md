@@ -19,7 +19,6 @@ Projects I've built from scratch to demonstrate my skills and learning:
 - [SDEV-300-7380](https://github.com/mbennett-labs/SDEV-300-7380) - Python code collections from my security coursework
 - [swarm-agents](https://github.com/mbennett-labs/swarm-agents) - Explorations in AI swarm intelligence
 - [py-cs-me](https://github.com/mbennett-labs/py-cs-me) - Personal Python code snippets and exercises
-- [icatfreakst](https://github.com/mbennett-labs/icatfreakst) - First GitHub repository showing my learning progression
 
 ### 🎓 Academic Projects
 Course projects that demonstrate my academic learning:
