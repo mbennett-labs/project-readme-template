@@ -3,6 +3,14 @@
 ## 👨‍💻 About Me
 Software Developer and Security Specialist with a background as an Executive Chef, bringing unique perspectives on system design, operational efficiency, and team leadership to the software development world. Recently graduated with a BS in Software Development & Security from University of Maryland Global Campus (May 2024). 
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Security](https://img.shields.io/badge/Security-FF0000?style=for-the-badge&logo=shield&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=bitcoin&logoColor=white)
+
 Passionate about:
 - 🔐 Cybersecurity & Secure Software Development
 - ⛓️ Blockchain Technology & Smart Contracts
